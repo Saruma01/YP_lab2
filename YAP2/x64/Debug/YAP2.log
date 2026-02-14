@@ -1,0 +1,10 @@
+﻿  YAP2.cpp
+C:\Users\Admin\Documents\OOP1\YAP2\YAP2.cpp(63,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Documents\OOP1\YAP2\YAP2.cpp(64,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Documents\OOP1\YAP2\YAP2.cpp(65,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Documents\OOP1\YAP2\YAP2.cpp(82,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Documents\OOP1\YAP2\YAP2.cpp(98,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Documents\OOP1\YAP2\YAP2.cpp(158,32): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Documents\OOP1\YAP2\YAP2.cpp(158,27): warning C4244: инициализация: преобразование "double" в "const int", возможна потеря данных
+C:\Users\Admin\Documents\OOP1\YAP2\YAP2.cpp(187,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  YAP2.vcxproj -> C:\Users\Admin\Documents\OOP1\YAP2\x64\Debug\YAP2.exe
